@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/niltonxp2"><img src="https://api.daily.dev/devcards/7f5dcd4180eb4edd806e3305e65b8bae.png?r=u17" width="400" alt="Ivanilton Bezerra's Dev Card"/></a>
+
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=niltonxp2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonxp2&layout=compact&langs_count=7&theme=dracula"/>

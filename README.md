@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React.js, HTML, CSS, JS...**
 
-- 📫 How to reach me **nitinhoxd@gmail.com**
+- 📫 How to reach me **nitinhosilva1996@gmail.com**
 
 - ⚡ Fun fact **I S2 go to the gym**
 
